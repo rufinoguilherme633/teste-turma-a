@@ -3,6 +3,10 @@ h1{
     color: yellow;
 }
 body {
+    height: 100vh;
 background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
 
 }
